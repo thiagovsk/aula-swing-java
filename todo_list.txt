@@ -1,0 +1,10 @@
+To DO list da calculadora
+[] criar novo projeto
+[] criar classe da calculadora que faz as operacoes Calculadora
+[] criar classe da interface TelaCalculadora
+[] criar um painel
+[] criar um painel de texto para tela da caculadora
+[] alterar o nome da variavel
+[] adicionar botoes da calculadora (numeros e operacoes)
+[] adicionar eventos aos botões (mouseclicked) para aparecer texto na tela da calculadora
+[] adicionar resultado na tela da calculadora
